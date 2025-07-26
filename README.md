@@ -14,7 +14,6 @@ An intuitive, multilingual web app that helps farmers and researchers identify d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -100,12 +99,6 @@ CropCure-Pro/
 
 ---
 
-## License
-
-[MIT License](LICENSE)  
-*This project is for academic/demo purposes only. Please do not use the diagnosis app for medical or critical agriculture decisions without expert validation.*
-
----
 
 ## Acknowledgements
 
