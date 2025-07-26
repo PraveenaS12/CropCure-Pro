@@ -38,7 +38,8 @@ An intuitive, multilingual web app that helps farmers and researchers identify d
 
 ## Demo
 
-[![Watch Video Demo](https://drive.google.com/drive/folders/185n0qifuCpmFxouuFdS1eewAHinwmRpw?usp=sharing)
+[▶️ Watch the video demo on Google Drive](https://drive.google.com/file/d/1q28mRZYTENo_H6aXFRm_GWrLnud2u9Nj/view?usp=drive_link)
+
 
 ---
 
