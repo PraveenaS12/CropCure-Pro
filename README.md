@@ -38,7 +38,7 @@ An intuitive, multilingual web app that helps farmers and researchers identify d
 
 ## Demo
 
-[![Watch Video Demo](CropCure Pro 🌿 - Personal - Microsoft​ Edge 2025-07-16 19-26-44.mp4)
+[![Watch Video Demo](https://drive.google.com/drive/folders/185n0qifuCpmFxouuFdS1eewAHinwmRpw?usp=sharing)
 
 ---
 
